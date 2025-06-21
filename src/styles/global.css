@@ -1,0 +1,13 @@
+@import "./fonts.css";
+@import "./theme.css";
+@import "./utilities.css";
+@import "./components.css";
+
+html,
+body {
+  width: 100%;
+  background-color: black;
+  color: white;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
