@@ -35,7 +35,7 @@ export function Navbar() {
 
 
     return (
-        <nav className="container p-2">
+        <nav className="">
             <div className="">
                 <Link className="flex items-center gap-2" href={"#home"}>
                     <Image src={logo} alt="Logo site" />
