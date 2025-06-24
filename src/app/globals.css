@@ -312,7 +312,7 @@ body {
         .cocktail {
             @apply flex-center mt-10;
 
-            img {
+            .img {
                 @apply object-contain h-[60vh];
             }
         }
