@@ -1,4 +1,5 @@
 import { About } from "@/_components/about";
+import { Art } from "@/_components/art";
 import { Cocktails } from "@/_components/cocktails";
 import { Hero } from "@/_components/hero";
 import { Navbar } from "@/_components/navBar";
@@ -15,6 +16,7 @@ export default function Home() {
       <Hero />
       <Cocktails/>
       <About/>
+      <Art/>
     </main>
   );
 }
